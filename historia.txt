@@ -3,3 +3,4 @@ tengo 25 años, vivo en méxico
 Esto es un título centrado
 
 Hoy hablaremos del DadyJson
+El joven empresario que ha conquistado el sureste con tecnología web
