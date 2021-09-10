@@ -8,6 +8,14 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-size: 16PX;
 }
+#cabecera{
+    background-color: purple;
+    color: white;
+    margin: 0px;
+    padding: 0.5 em;
+    font-weight: bold;
+    
+}
 #container{
     width: 70%;
     padding: 1em;
